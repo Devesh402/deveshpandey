@@ -51,7 +51,7 @@ html {
 .content {
 	display: grid;
 	place-items: center;
-	height: 300vh;
+	height: 70vh;
 	background: url(img/1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
